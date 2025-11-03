@@ -62,7 +62,7 @@ const App = () => {
         context: chatContext
       };
 
-      const response = await fetch(`${API_BASE}/chat`, {
+      const response = await fetch(`${API_BASE}chat`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
