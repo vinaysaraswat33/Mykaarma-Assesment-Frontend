@@ -1,8 +1,5 @@
-/* @tailwind base;
-@tailwind components;
-@tailwind utilities;
- */
-@import "tailwindcss"; 
+
+/* @import "tailwindcss";  */
 
 /* :root { color-scheme: light dark; --bg:#0b0c0f; --fg:#eaeaea; --muted:#9aa0a6; --accent:#4f46e5; --card:#151821; --chip:#1f2430; --border:#2a2f3a; }
 * { box-sizing: border-box; }
